@@ -8,14 +8,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://wwww.mericalkisla.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://wwww.mericalkisla.com#gh-dark-mode-only)
+[![website](./images/globe-light.svg)](https://wwww.mericalkisla.com#gh-light-mode-only)
+[![website](./images/globe-dark.svg)](https://wwww.mericalkisla.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/alkislameric#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://x.com/alkislameric#gh-dark-mode-only)
+[![website](./images/twitter-light.svg)](https://x.com/alkislameric#gh-light-mode-only)
+[![website](./images/twitter-dark.svg)](https://x.com/alkislameric#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/meric-alkisla#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/meric-alkisla#gh-dark-mode-only)
+[![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/meric-alkisla#gh-light-mode-only)
+[![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/meric-alkisla#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/meric.alkisla#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/meric.alkisla/#gh-dark-mode-only)
+[![website](./images/instagram-light.svg)](https://www.instagram.com/meric.alkisla#gh-light-mode-only)
+[![website](./images/instagram-dark.svg)](https://www.instagram.com/meric.alkisla/#gh-dark-mode-only)
