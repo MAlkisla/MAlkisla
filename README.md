@@ -110,7 +110,7 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" align="left" alt="Git" height="25px">
 </a>
 
-
+</div>
 
 <div align="center">
 
