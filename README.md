@@ -112,6 +112,8 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 
 </div>
 
+<br>
+
 <div align="center">
 
 ### ⚡ Projects and Dev Stuffs:
