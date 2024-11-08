@@ -109,9 +109,6 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" align="left" alt="Git" height="25px">
 </a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" height="25px">
-</a>
 
 </div>
 
