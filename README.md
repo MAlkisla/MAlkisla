@@ -45,9 +45,9 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 - 📫 &nbsp; How to reach me: [mericalkisla@gmail.com](mailto:mericalkisla@gmail.com)
 - 📝 &nbsp; Checkout my [resume]()
 
-<div align="center">
-
 ### 🔨 🔥 Languages & Frameworks & Tools & Abilities 🔥
+
+<br>
 
 <a href="https://developer.android.com" target="_blank">
   <img align="left" alt="Android" height="25px" src="https://cdn.worldvectorlogo.com/logos/android-6.svg">
@@ -110,13 +110,12 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" align="left" alt="Git" height="25px">
 </a>
 
-</div>
-
 <br>
 
-<div align="center">
 
 ### ⚡ Projects and Dev Stuffs:
+
+<br>
 
 <details>
   <summary><b>⚡ Github Stats</b></summary>
@@ -140,5 +139,3 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
   **Code Editor:** VSCode - The best editor out there  
 
 </details>
-
-</div>
