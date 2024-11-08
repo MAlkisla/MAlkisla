@@ -50,67 +50,67 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 ### 🔨 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
 <a href="https://developer.android.com" target="_blank">
-  <img align="left" alt="Android" height="30px" src="https://cdn.worldvectorlogo.com/logos/android-6.svg">
+  <img align="left" alt="Android" height="25px" src="https://cdn.worldvectorlogo.com/logos/android-6.svg">
 </a>
 <a href="https://kotlinlang.org" target="_blank">
-  <img align="left" alt="Kotlin" height="30px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg">
+  <img align="left" alt="Kotlin" height="25px" src="https://cdn.worldvectorlogo.com/logos/kotlin-1.svg">
 </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img align="left" alt="C#" height="30px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img align="left" alt="C#" height="25px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
 </a>
 <a href="https://unity.com/" target="_blank">
-  <img align="left" alt="Unity" height="30px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
+  <img align="left" alt="Unity" height="25px" src="https://cdn.worldvectorlogo.com/logos/unity-69.svg">
 </a>
 <a href="https://dotnet.microsoft.com/" target="_blank">
-  <img align="left" alt=".NET" height="30px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg">
+  <img align="left" alt=".NET" height="25px" src="https://cdn.worldvectorlogo.com/logos/netframework-1.svg">
 </a>
 <a href="https://www.java.com" target="_blank">
-  <img align="left" alt="Java" height="30px" src="https://cdn.worldvectorlogo.com/logos/jee-3.svg">
+  <img align="left" alt="Java" height="25px" src="https://cdn.worldvectorlogo.com/logos/jee-3.svg">
 </a>
 <a href="https://firebase.google.com/" target="_blank">
-  <img align="left" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" height="30px">
+  <img align="left" src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" height="25px">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" alt="JavaScript" height="30px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+  <img align="left" alt="JavaScript" height="25px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img align="left" alt="HTML" height="30px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <img align="left" alt="HTML" height="25px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img align="left" alt="CSS" height="30px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
+  <img align="left" alt="CSS" height="25px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
 </a>
 <a href="https://getbootstrap.com/" target="_blank">
-  <img align="left" alt="Bootstrap" height="30px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
+  <img align="left" alt="Bootstrap" height="25px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="TypeScript" height="30px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
+  <img align="left" alt="TypeScript" height="25px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 </a>
 <a href="https://reactjs.org/" target="_blank">
-  <img align="left" alt="React" height="30px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+  <img align="left" alt="React" height="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </a>
 <a href="https://nodejs.org" target="_blank">
-  <img align="left" alt="Node.js" height="30px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
+  <img align="left" alt="Node.js" height="25px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg">
 </a>
 <a href="https://redux.js.org/" target="_blank">
-  <img align="left" alt="Redux" height="30px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+  <img align="left" alt="Redux" height="25px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
 </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-  <img align="left" alt="MSSQL" height="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg">
+  <img align="left" alt="MSSQL" height="25px" src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg">
 </a>
 <a href="https://www.postgresql.org/" target="_blank">
-  <img align="left" alt="PostgreSQL" height="30px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+  <img align="left" alt="PostgreSQL" height="25px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
 </a>
 <a href="https://www.mongodb.com/" target="_blank">
-  <img align="left" alt="MongoDB" height="30px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+  <img align="left" alt="MongoDB" height="25px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
 </a>
 <a href="https://angular.io/" target="_blank">
   <img align="left" alt="Angular" height="30px" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
 </a>
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" align="left" alt="Git" height="30px">
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" align="left" alt="Git" height="25px">
 </a>
 <a href="https://www.figma.com/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" height="30px">
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="Figma" height="25px">
 </a>
 
 
