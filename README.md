@@ -82,9 +82,6 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 <a href="https://getbootstrap.com/" target="_blank">
   <img align="left" alt="Bootstrap" height="25px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg">
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" alt="TypeScript" height="25px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
-</a>
 <a href="https://reactjs.org/" target="_blank">
   <img align="left" alt="React" height="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 </a>
@@ -111,7 +108,7 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 </a>
 
 <br>
-
+<br>
 
 ### ⚡ Projects and Dev Stuffs:
 
