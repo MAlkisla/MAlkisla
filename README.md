@@ -43,7 +43,7 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/meric-alkisla)
 - 📫 &nbsp; How to reach me: [mericalkisla@gmail.com](mailto:mericalkisla@gmail.com)
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1lAska7znJldtPztqX_4M_cabzXojwIan/view?usp=sharing)
 
 ### 🔨 🔥 Languages & Frameworks & Tools & Abilities 🔥
 
