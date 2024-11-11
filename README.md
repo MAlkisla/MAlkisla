@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'am+Meriç+Alkışla...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Meriç+Alkışla...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -121,10 +121,10 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAlkisla&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-<details>
-  <summary><b>👨🏻‍💻 Projects</b></summary>
-  <br />
-</details>
+//<details>
+ // <summary><b>👨🏻‍💻 Projects</b></summary>
+ // <br />
+//</details>
 
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
