@@ -121,11 +121,6 @@ Hi, I'm Meriç Alkışla, Rail Systems Engineer & Software Developer from Turkey
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAlkisla&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-//<details>
- // <summary><b>👨🏻‍💻 Projects</b></summary>
- // <br />
-//</details>
-
 <details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   <br />
